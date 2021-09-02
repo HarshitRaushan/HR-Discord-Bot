@@ -33,11 +33,10 @@ already** under work for the version 3.0 of the template.
 To set up the bot I made it as simple as possible. 
 Here is an explanation of what everything is:
 
-| Commands                  | Execution                                                           |
+| Commands                  | Execution                                                             |
 | ------------------------- | ----------------------------------------------------------------------|
-| YOUR_B                    | The prefix(es) of your bot                                            |
-| YOUR_BO                   | The token of your bot                                                 |
-| YOUR_AP                   | The application ID of your bot                                        |
+|                           |                                                                       |
+|                           |                                                                       |
 
 
 ## How to start

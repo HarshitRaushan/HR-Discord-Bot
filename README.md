@@ -38,7 +38,7 @@ Here is an explanation of what everything is:
 | YOUR_B                    | The prefix(es) of your bot                                            |
 | YOUR_BO                   | The token of your bot                                                 |
 | YOUR_AP                   | The application ID of your bot                                        |
-| OWNER                     | The user ID of all the bot owners                                     |
+| OWNER                     |                                                                       |
 
 ## How to start
 

@@ -36,7 +36,7 @@ Here is an explanation of what everything is:
 | Commands                  | Execution                                                           |
 | ------------------------- | ----------------------------------------------------------------------|
 | YOUR_BOT_PREFIX_H         | The prefix(es) of your bot                                            |
-| YOUR_BOT_TOKEN_HE         | The token of your bot                                                 |
+| YOUR_BOT.                 | The token of your bot                                                 |
 | YOUR_APPLICATIO           | The application ID of your bot                                        |
 | OWNERS                    | The user ID of all the bot owners                                     |
 

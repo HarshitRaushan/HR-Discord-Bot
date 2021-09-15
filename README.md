@@ -58,7 +58,7 @@ the [tags on this repository](https://github.com/HarshitRaushan).
 
 ## Built With
 
-* [Python 3.8](https://www.python.org/)
+* [Python 3.9.7](https://www.python.org/)
 
 ## License
 
